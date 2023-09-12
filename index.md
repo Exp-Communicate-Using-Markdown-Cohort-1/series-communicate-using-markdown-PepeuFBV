@@ -7,3 +7,6 @@
 $ git branch
 example code is right here bruh
 ```
+- [x] List item 1
+- [x] List item 2
+- [ ] List item 3
